@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojooghaip.gzfrancisco.name/sitemap.xml
